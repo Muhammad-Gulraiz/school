@@ -877,58 +877,58 @@
 //  console.log(Pi)
 // ======================================================================
 
-    class calculator{
+//     class calculator{
        
-        n1 : number;
-        n : number;
-        n2 : number
-        answer: number = 0;
-        constructor(n1:number,n:number, n2:number, answer:number){
+//         n1 : number;
+//         n : number;
+//         n2 : number
+//         answer: number = 0;
+//         constructor(n1:number,n:number, n2:number, answer:number){
            
-            this.n1 = n1
-            this.n=n
-            this.n2 = n2 
-            this.answer = answer 
+//             this.n1 = n1
+//             this.n=n
+//             this.n2 = n2 
+//             this.answer = answer 
 
-        }             
+//         }             
                
-        add(n1:number,n2:number):number{
-            return this.answer = n1 +n2
-        }
-        sub(n1:number,n2:number):number{
-            return this.answer = n1 - n2
-        }
-        mul(n1:number,n2:number):number{
-            return this.answer = n1 * n2
-        }
-        div(n1:number,n2:number):number{
-            return this.answer = n1 / n2
-        }
-        pow(n1:number,n2:number):number{
-            return this.answer = Math.pow(n1,n2)
-        }
-        log10(n:number):number{
-            return this.answer= Math.log10(n)
-        }
-        sqrt(n:number):number{
-            return this.answer = Math.sqrt(n)
-        }
-        cos(n:number):number{
-            return this.answer = Math.cos(n)
-        }
-        acos(n:number):number{
-            return this.answer = Math.acos(n)
-        }
-        sin(n:number):number{
-            return this.answer = Math.sin(n)
-        }
-        tan(n:number):number{
-            return this.answer = Math.tan(n)
-        }
-}
-const calculator1 = new calculator(0,0,0,0);
-calculator1.acos(0.35468)
-console.log(calculator1)
+//         add(n1:number,n2:number):number{
+//             return this.answer = n1 +n2
+//         }
+//         sub(n1:number,n2:number):number{
+//             return this.answer = n1 - n2
+//         }
+//         mul(n1:number,n2:number):number{
+//             return this.answer = n1 * n2
+//         }
+//         div(n1:number,n2:number):number{
+//             return this.answer = n1 / n2
+//         }
+//         pow(n1:number,n2:number):number{
+//             return this.answer = Math.pow(n1,n2)
+//         }
+//         log10(n:number):number{
+//             return this.answer= Math.log10(n)
+//         }
+//         sqrt(n:number):number{
+//             return this.answer = Math.sqrt(n)
+//         }
+//         cos(n:number):number{
+//             return this.answer = Math.cos(n)
+//         }
+//         acos(n:number):number{
+//             return this.answer = Math.acos(n)
+//         }
+//         sin(n:number):number{
+//             return this.answer = Math.sin(n)
+//         }
+//         tan(n:number):number{
+//             return this.answer = Math.tan(n)
+//         }
+// }
+// const calculator1 = new calculator(0,0,0,0);
+// calculator1.acos(0.35468)
+// console.log(calculator1)
 
 
 

@@ -36,5 +36,5 @@ class Calculator{
     }
 }
 const calculator1 = new Calculator();
-calculator1.sqrt(9)
+calculator1.sin(30)
 console.log(calculator1)
