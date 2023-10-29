@@ -671,107 +671,16 @@
 // console.log(obj)
 // ========================================================
 
-// class staff{
-//     name:string;
-//     age:number;
-//     qualification:string;
-//     id:string;
-//     service:string;
-//     adress: string
-//     constructor(name:string,age:number,qualification:string,id:string,service:string,adress:string){
-//         this.name=name
-//         this.age=age
-//         this.qualification= qualification
-//         this.id=id
-//         this.service= service
-//         this.adress= adress
-//     }
-//     schoolstaff():string{
-//         return 'staff name is ${this.name}, and his age is ${this.age}, and his qualification is ${this.qualification}, and his id is ${this.id}, and his service is ${this.service}, and his adress is ${this.adress}'
-//     }       
-// }
-// const staff1 = new staff("Ishtiaq-headmaster",52,"M.A,M.ed","iceland","31years","near:islamia school")
-// const staff2 = new staff("jabran-sst",39,"M.phil,M.ed","house","12years","kalagujran jhelum")
-// const staff3 = new staff("Haroon-est",40,"mcs,b.ed","water","18years","daryala jhelum")
 
-// // let x:staff[] = []
-
-// // x.push(staff1)
-// // x.push(staff2)
-// // x.push(staff3)
-// // console.log(x)
-// console.log(staff1,staff2,staff3)
 // ========================================================
 
-// class studen{
-//     name:string;
-//     age: number;
-//     fatherName: string;
-//     rollNumber: number;
-//     adress: string
-//     constructor(name:string,age:number,fatherName:string,rollNumber:number,adress:string){
-//         this.name=name,
-//         this.age=age,
-//         this.fatherName=fatherName,
-//         this.rollNumber=rollNumber,
-//         this.adress=adress
-//     }
-//     schoolstuden():string{
-//         return 'student name is ${this.name} and student age is ${this.age} and fatherName is ${this.fatherName}'
-//     }
-// }
-// const student1= new student("Hamza",14,"Ali Raza",49, "Lahore")
-// const student2= new student("Zaheer",13,"Zafar Iqbal",50, "Chandra")
-// const student3= new student("Saad",15,"Nisaar ahmed",51, "darapur")
-// const student4= new student("Aoun",16,"Ashraf Ahmed",52, "Tillajogyan")
 
-// console.log(student1,student2,student3)
  
 // =======================================================================================
 
-// class register{
-//     name:string;
-//     page:number;
-//     items: number;
-//     incharge:string
-//     constructor(name:string,page:number,items:number,incharge:string){
-//         this.name=name,
-//         this.page=page,
-//         this.items=items,
-//         this.incharge=incharge
-//     }
-//     schoolregister(){
-//         return 'register name is ${this.name} and pages are ${this.page}'
-//     }
-// }
-// const register1 =new register("admission",100,90, "naveed")
-// const register2 =new register("science lab",100,90, "yasir")
-// const register3 =new register("compute",100,90, "Ahtesham")
-// const register4 =new register("physics", 200, 25, "haider sb")
-// console.log(register1,register2,register3,register4)
 // =================================================================
 
 
-// class physicslab{
-//     name:string;
-//     qty:number
-//     constructor(name:string,qty:number){
-//         this.name=name,
-//         this.qty=qty
-//     }
-//     schoollab(){
-//         return 'name of apperatus is ${this.name} and it quantity is ${this.qty}'
-//     }
-// }
-// const physicslab1 = new physicslab("vernier caliper", 10)
-// const physicslab2 = new physicslab("screw guage", 8)
-// const physicslab3 = new physicslab("helicar spring", 10)
-// const physicslab4 = new physicslab("Gravesand Apperatus", 8)
-// const physicslab5 = new physicslab("free fall method", 2)
-// const physicslab6 = new physicslab("glass slabs", 20)
-// const physicslab7 = new physicslab("glass prisms", 20)
-// const physicslab8 = new physicslab("bar magnets", 30)
-// console.log(physicslab1,physicslab2,physicslab3,physicslab4,physicslab5,physicslab6,physicslab7,physicslab8)
 // ====================================================================================
 
 
