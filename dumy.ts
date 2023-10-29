@@ -491,12 +491,7 @@
 
     // if else:
     
-    // if(false){
-    //     console.log("Welcome")
-    // }
-    // else{
-    //     console.log("Goodbye")
-    // }
+    
 
 
     // let username:string = "muhammadgulraiz"
@@ -510,101 +505,9 @@
     // }
 // =============================================================================
 
-    // class house{
-    //     name:string
-    //     age:number
-
-    //     constructor(name:string,age:number){
-    //         this.name=name
-    //         this.age=age                       
-    //     }
-    //     studentFunc(){
-    //         return 'house name is ${this.name}, his age is ${this.age}'
-    //     }      
-        
-    // }
-    // const house1 = new house("Qadoos", 123)
-    // console.log(house1)
     
     // =================================================
     
-//     class calculator{                
-//         answer: number= 0       
-//         add(n1:number,n2:number):number{
-//             return this.answer = n1 +n2
-//         }
-//         sub(n1:number,n2:number):number{
-//             return this.answer = n1 - n2
-//         }
-//         mul(n1:number,n2:number):number{
-//             return this.answer = n1 * n2
-//         }
-//         div(n1:number,n2:number):number{
-//             return this.answer = n1 / n2
-//         } 
-// }
-// const calculator1 = new calculator();
-// let x = calculator1.mul(30,15)
-// console.log(x)
-
-
-
-
-//     class calculator{
-       
-//         n1 : number
-//         n2 : number
-//         answer: number = 0;
-//         constructor(n:number, n2:number, answer:number){
-           
-//             this.n1 = n1
-//             this.n2 = n2 
-//             this.answer = answer 
-
-//         }             
-               
-//         add(n1:number,n2:number):number{
-//             return this.answer = n1 +n2
-//         }
-//         sub(n1:number,n2:number):number{
-//             return this.answer = n1 - n2
-//         }
-//         mul(n1:number,n2:number):number{
-//             return this.answer = n1 * n2
-//         }
-//         div(n1:number,n2:number):number{
-//             return this.answer = n1 / n2
-//         }
-                
- 
-// }
-// const calculator1 = new calculator(2,3,0);
-// calculator1.add(2,3)
-// console.log(calculator1)
-
-
-
-// class calculator{
-    
-//     n: number=0
-    
-   
-//     answer: number 
-//     constructor(n:number){
-       
-       
-//         this.answer = n
-
-//     }                
-         
-//     tangent(n:number):number{
-//         return this.answer = n
-//     }        
-
-// }
-// const calculator1 = new calculator(0); 
-// let x = calculator1.tangent(30)
-// console.log(x)
 
 
 
