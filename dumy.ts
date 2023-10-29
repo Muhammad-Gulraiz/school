@@ -457,11 +457,7 @@
 //     i++
 // }
 
-// let i = 1
-// while(i<=20){
-//     console.log(i)
-//     i++
-// }
+
 
 // let i = 1
 
@@ -472,37 +468,8 @@
 // ===========================================================================
 
 
-// enum calculator {
-//     sum, subtraction, multiply, division
-// }
-// const x:calculator= calculator.sum
-// // const y: string = pakistan[4]
-// // // console.log(y)
-// console.log(x)
-
-
-// function tree(){
-//         let division = 9/6;
-//         return division
-//     }
-//     let x:number= tree();
-//     console.log(x);
 // ================================================================================
 
-    // if else:
-    
-    
-
-
-    // let username:string = "muhammadgulraiz"
-    // let password:number = 740163
- 
-    // if(username== "muhammadgulraiz" && password== 740163 ){
-    //     console.log("Welcom to my home")
-    // }
-    // else{
-    //     console.log("Good bye")
-    // }
 // =============================================================================
 
     
