@@ -338,88 +338,9 @@
 // console.log(medicaldata)
 
 
-// class medical{
-//     name:string;
-//     age:number;
-//     qualification:string;
-//     id:string;
-//     service:string;
-//     adress: string
-
-//     constructor(n:string,a:number,q:string,i:string,s:string,b:string){
-//         this.name=n
-//         this.age=a
-//         this.qualification=q
-//         this.id=i
-//         this.service=s
-//         this.adress=b
-//     }
-//     medicalFunc():string{
-//         return 'medical name is ${this.name}, and his age is ${this.age}, and his qualification is ${this.qualification}, and his id is ${this.id}, and his service is ${this.service}, and his adress is ${this.adress}'
-//     }       
-// }
-
-// const medical1 = new medical("Qadoos",12,"MBBS","mountain","16years","jada jhelum")
-// const medical2 = new medical("AAsshir",13,"DHMS","house","19years","mehmoodabad jhelum")
-// const medical3 = new medical("Maqadas",100,"scientist","river","18years","daryala jhelum")
-
-// let medicaldata:medical[] = []
-// medicaldata.push(medical1)
-// medicaldata.push(medical2)
-// medicaldata.push(medical3)
-
-// medical3.name = "sundus"
-
-// console.log(medicaldata)
 
 // ==================================================================
-// class jada{
-//     name:string;
-//     age:number
 
-//     constructor(n:string,a:number){
-//         this.name=n
-//         this.age=a
-//     }
-//     jadaFunc():string{
-//         return 'jada name is ${this.name}, his age is ${this.age}'
-
-//     }
-// }
-// const jada1 = new jada("Bushra",12)
-// const jada2 = new jada("imran khan",25)
-// const jada3 = new jada("sweet",88 )
-
-// console.log(jada1,jada2,jada3)
-
-// ========================================================================
-
-// class student{
-//     name:string;
-//     age:number;
-//     rollnumber:number;
-//     hobbies:string
-
-//     constructor(n:string,a:number,r:number,h:string){
-//         this.name=n
-//         this.age=a
-//         this.rollnumber=r
-//         this.hobbies=h
-//     }
-//     studentFunc():string{
-//         return 'student name is ${this.name}, and student age is ${this.age}, and rollnumber is ${this.rollnumber}, and hobbies are ${this.hobbies}'
-//     }
-// }
-
-// const student1 = new student("Archemidas",12,511,"cricket")
-// const student2 = new student("Harlc", 22, 789, "footbal")
-// const student3 = new student("pakistan", 55, 111, "Hockey")
-
-// let x:student[]=[]
-// x.push(student1)
-// x.push(student2)
-// x.push(student3)
-// console.log(x)
 
 
 // ==================================================================================
