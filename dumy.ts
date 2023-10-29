@@ -801,72 +801,7 @@
 // const rooms4 = new rooms("headmaster room", 1,1,3)
 
 // console.log(rooms2)
-// =========================================================================================
-
-// 23/10/2023
-
-// class calculator{
-//     n1:number;
-//     n2:number;                
-//     answer: number= 0
-//     constructor(n1:number,n2:number,answer:number){
-//         this.n1=n1
-//         this.n2=n2
-//         this.answer=answer
-//     }       
-//     add(n1:number,n2:number):number{
-//         return this.answer = n1 +n2
-//     }
-//     sub(n1:number,n2:number):number{
-//         return this.answer = n1 - n2
-//     }
-//     mul(n1:number,n2:number):number{
-//         return this.answer = n1 * n2
-//     }
-//     div(n1:number,n2:number):number{
-//         return this.answer = n1 / n2
-//     } 
-// }
-// const calculator1 = new calculator(30,15,0);
-// let x = calculator1.add(30,15)
-// console.log(x)
-// ========================================================
-// class calculator{
-//     n1:number;
-//     n2:number
-//     answer: number= 0
-//     constructor(n1:number,n2:number,answer:number){
-//         this.n1=n1
-//         this.n2=n2
-//         this.answer=answer
-//     }       
-    // pow(n:number,n2:number):number{
-    //     return this.answer = Math.pow(125,1/3)
-    // }
-     
-// }
-// const calculator1 = new calculator(0,0,0);
-// let x = calculator1.pow(0,0)
-// console.log(x)
-// ===========================================================================================
-
-// class calculator{
-//     n:number;
-    
-//     answer: number= 0
-//     constructor(n:number,answer:number){
-//         this.n=n        
-//         this.answer=answer
-//     }       
-//     tan(n:number):number{
-//         return this.answer = Math.tan(90)        
-//     }
-     
-// }
-// const calculator1 = new calculator(0,0)
-// let x = calculator1.tan(0)
-// console.log(x)
-
+// 
 // ========================================================================
 // let pow = Math.pow(5,3)
 // console.log(pow) 
