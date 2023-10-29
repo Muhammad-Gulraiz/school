@@ -638,37 +638,7 @@
 // console.log("It is invalid usearname")
 // ================================================
 // 25
-// interface in typescript:
-// i.just object can be written:
-// let obj = {
-//     fname : "Ali", 
-//     age:31
-// }
-// console.log(obj)
 
-// interface faisal{
-//     fname:string;
-//     age:number
-//     func:()=> void;
-//     hobbies:string[];
-//     socialMedia:{
-//         instagram:string;
-//         facebook:string
-//     }
-// }
-// let obj = {
-//     fname : "Ali", 
-//     age:31,
-//     func:()=>{
-//         console.log("hello")
-//     },
-//     hobbies:["cricket", "hockey"],
-//     socialMedia:{
-//         intagram:"jell",
-//         facebook:"@gmail.com"
-//     }
-// }
-// console.log(obj)
 // ========================================================
 
 
