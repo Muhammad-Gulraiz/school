@@ -1,18 +1,6 @@
-class calculator{
-       
-    n1 : number;
-    n : number;
-    n2 : number
-    answer: number = 0;
-    constructor(n1:number,n:number, n2:number, answer:number){
-       
-        this.n1 = n1
-        this.n=n
-        this.n2 = n2 
-        this.answer = answer 
-
-    }             
-           
+class Calculator{       
+    answer: number = 0;    
+      
     add(n1:number,n2:number):number{
         return this.answer = n1 +n2
     }
@@ -34,25 +22,19 @@ class calculator{
     sqrt(n:number):number{
         return this.answer = Math.sqrt(n)
     }
-    sin(n:number):number{
-        return this.answer = Math.sin(n)
-    }
-    asin(n:number):number{
-        return this.answer = Math.asin(n)
-    }
     cos(n:number):number{
         return this.answer = Math.cos(n)
     }
     acos(n:number):number{
         return this.answer = Math.acos(n)
-    }        
+    }
+    sin(n:number):number{
+        return this.answer = Math.sin(n)
+    }
     tan(n:number):number{
         return this.answer = Math.tan(n)
     }
-    atan(n:number):number{
-        return this.answer = Math. atan(n)
-    }
 }
-const calculator1 = new calculator(0,0,0,0);
-calculator1.pow(2,3)
+const calculator1 = new Calculator();
+calculator1.sqrt(9)
 console.log(calculator1)
