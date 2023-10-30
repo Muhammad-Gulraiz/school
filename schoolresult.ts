@@ -36,5 +36,5 @@ const schoolresult2 = new schoolresult("Haseeb", 62, 50, 32, 34, 74, 71, 57, 61)
 const schoolresult3 = new schoolresult("Danial", 56, 63, 39, 41, 70, 54, 60, 55)
 const schoolresult4 = new schoolresult("Zubair", 42, 53, 42, 39, 65, 73, 58, 60)
 
-let x = schoolresult1, y = schoolresult2, z= schoolresult3, s= schoolresult4
-console.log(x,y,z,s)
+let u = schoolresult1, n = schoolresult2, p= schoolresult3, s= schoolresult4
+console.log(u,n,p,s)
