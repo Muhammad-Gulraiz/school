@@ -181,17 +181,6 @@
 // console.log(x)
 
 
-// let ali = {
-//      firstname:"sweet",
-//     lastname:"heart",
-//     age: 12,
-//     hobbies:["aa", "bb", "CC"]
-//     salary:()=>  "month",
-//     email:"kkss"
-    
-// }
-// delete ali.salary 
-// console.log(ali)
 
 
 // let ali = {
