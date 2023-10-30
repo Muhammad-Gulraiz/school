@@ -151,37 +151,7 @@
 
 // ===================================================================================================================
 
-// class DayOfTeacher{
-//     name:string;
-//     designation:string;
-//     day:string;
-//     complain:number;
-//     fine:boolean;
-//     forgiveness:boolean
-//     constructor(name:string,designation:string,day:string,complain:number,fine:boolean,forgiveness:boolean){
-//         this.name=name
-//         this.designation=designation
-//         this.day=day
-//         this.complain=complain
-//         this.fine=fine
-//         this.forgiveness=forgiveness
-//     }
-//     Assembli(){
-//         return 'Teacher name is ${this.name} and his designation is ${this.designation}'
-//     }
-//     Midtime(){
-//         return 'day is ${this.day} and complain are ${this.complain} and fines are ${this.fine}'
-//     }
-//     finalTime(){
-//         return 'forgiveness are ${this.forgiveness}'
-//     }
-// }
-// const DayOfTeacher1 = new DayOfTeacher("Sir Mazhar", "SST", "Monday", 10,true,false)
-// const DayOfTeacher2 = new DayOfTeacher("Sir Adeel", "SST", "Tuesday", 15,true,false)
-// const DayOfTeacher3 = new DayOfTeacher("Sir Yasir", "SST", "Wednesday",11 ,false,true)
-// const DayOfTeacher4 = new DayOfTeacher("Sir Kaleem", "SST", "Thursday", 8,true,false)
-// let a = DayOfTeacher1, b = DayOfTeacher2, c = DayOfTeacher3, d = DayOfTeacher4
-// console.log(a,b,c,d)
+
 
 // ==================================================================================================================================================
 
