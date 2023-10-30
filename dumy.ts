@@ -250,30 +250,6 @@
 
 
 
-// interface person {
-//     id:number
-// }
-// interface person {
-//     adress:string
-// }
-// let person = {
-//     id: 753,
-//     adress: "mehmoodabad"
-// }
-// console.log(person.id)
-
-// class student{
-//     name:string
-//     age:number
-//     profession:string
-//     rollnumber:number
-
-//     constructor(n:string,a:number,p:string,r:number){
-//         this.name=n
-//         this.age=a
-//         this.profession=p
-//         this.rollnumber=r
-
 //     }
 // }
 
@@ -295,13 +271,7 @@
 // console.log(x)
 
 
-// enum pakistan {
-//     pujab, sindh, peshawar, koita, murree
-// }
-// const x:pakistan= pakistan.sindh
-// const y: string = pakistan[4]
-// // console.log(y)
-// console.log(x)
+
 
 
 // enum pakistan {
