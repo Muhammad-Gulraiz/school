@@ -36,7 +36,7 @@
 //     }
 // }
 // const w = new Calculator();
-// w.add(5,2)
+// w.add(2,3)
 // console.log(w)
 
 
@@ -54,9 +54,7 @@
 
 console.log("start")
 
-try {
-    // let x = "Ashir"
-    // console.log(x)
+
 
     class Calculator{       
     answer: number = 0;    
@@ -95,10 +93,14 @@ try {
                 return this.answer = Math.tan(n)
             }
     }
+    try {
     const w = new Calculator();
-w.sin(30,9)
+w.div(8,2)
 console.log(w)
 } catch (error) {
     console.log("error")
 }
 console.log("end")
+
+
+
