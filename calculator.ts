@@ -95,7 +95,7 @@ console.log("start")
     }
     try {
     const w = new Calculator();
-w.div(8,2)
+w.div(10,2)
 console.log(w)
 } catch (error) {
     console.log("error")
