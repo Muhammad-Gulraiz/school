@@ -93,10 +93,10 @@ console.log("start")
                 return this.answer = Math.tan(n)
             }
     }
-    try {
+try {
     const w = new Calculator();
-w.div(10,2)
-console.log(w)
+    w.div(10,2)
+    console.log(w)
 } catch (error) {
     console.log("error")
 }
