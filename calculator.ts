@@ -95,7 +95,7 @@ console.log("start")
     }
 try {
     const w = new Calculator();
-    w.sin(30)
+    w.tan(45)
     console.log(w)
 } catch (error) {
     console.log("error")
