@@ -95,7 +95,7 @@ console.log("start")
     }
 try {
     const w = new Calculator();
-    w.div(10,2)
+    w.sin(30)
     console.log(w)
 } catch (error) {
     console.log("error")
