@@ -95,7 +95,7 @@ console.log("start")
     }
 try {
     const w = new Calculator();
-    w.tan(45)
+    w.add(5,2)
     console.log(w)
 } catch (error) {
     console.log("error")
