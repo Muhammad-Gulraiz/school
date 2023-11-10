@@ -95,7 +95,7 @@ console.log("start")
     }
 try {
     const w = new Calculator();
-    w.add(5,2)
+    w.sqrt(25)
     console.log(w)
 } catch (error) {
     console.log("error")
