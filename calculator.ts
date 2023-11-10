@@ -95,7 +95,7 @@ console.log("start")
     }
 try {
     const w = new Calculator();
-    w.sqrt(25)
+    w.sin(90)
     console.log(w)
 } catch (error) {
     console.log("error")
