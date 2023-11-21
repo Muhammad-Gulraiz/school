@@ -22,4 +22,6 @@ rooms{}
 import { physicslab } from "./physicsLab";
 physicslab{}
 
+import { TeacherOfDay } from "./teacherday";
+TeacherOfDay{}
 
