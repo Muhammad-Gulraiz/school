@@ -1,6 +1,9 @@
-// import { Tournament } from "./tournament";
+import { Tournament } from "./tournament";
 
-// Tournament{}
+Tournament{}
 
 import { schoolresult } from "./schoolresult";
 schoolresult{}
+
+import { student } from "./schoolStudent";
+student{}
