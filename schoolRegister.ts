@@ -1,5 +1,5 @@
 
-class register{
+export class register{
     name:string;
     page:number;
     items: number;

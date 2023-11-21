@@ -1,4 +1,4 @@
-export default class rooms{
+export class rooms{
     name:string;
     door:number;
     qty:number;

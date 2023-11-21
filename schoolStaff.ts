@@ -1,4 +1,4 @@
-class Staff{
+export class Staff{
     name:string;
     age:number;
     qualification:string;
@@ -17,9 +17,9 @@ class Staff{
         return 'staff name is ${this.name}, and his age is ${this.age}, and his qualification is ${this.qualification}, and his id is ${this.id}, and his service is ${this.service}, and his adress is ${this.adress}'
     }       
 }
-const staff1 = new staff("Ishtiaq-headmaster",52,"M.A,M.ed","iceland","31years","near:islamia school")
-const staff2 = new staff("jabran-sst",39,"M.phil,M.ed","house","12years","kalagujran jhelum")
-const staff3 = new staff("Haroon-est",40,"mcs,b.ed","water","18years","daryala jhelum")
+const staff1 = new Staff("Ishtiaq-headmaster",52,"M.A,M.ed","iceland","31years","near:islamia school")
+const staff2 = new Staff("jabran-sst",39,"M.phil,M.ed","house","12years","kalagujran jhelum")
+const staff3 = new Staff("Haroon-est",40,"mcs,b.ed","water","18years","daryala jhelum")
 
 // let x:staff[] = []
 

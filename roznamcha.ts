@@ -1,4 +1,4 @@
-class Roznamcha{
+export class Roznamcha{
     name:string;
     total:number
     present:number;
