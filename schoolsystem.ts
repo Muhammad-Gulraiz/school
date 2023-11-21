@@ -1,3 +1,3 @@
-import {TeacherOfDay } from "./teacherday";
+import { Tournament } from "./tournament";
 
-TeacherOfDay{}
+Tournament{}
