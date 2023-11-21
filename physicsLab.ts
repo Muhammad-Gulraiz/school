@@ -1,4 +1,4 @@
-class physicslab{
+export class physicslab{
     name:string;
     qty:number
     constructor(name:string,qty:number){

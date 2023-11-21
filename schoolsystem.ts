@@ -19,4 +19,7 @@ register{}
 import { rooms } from "./rooms";
 rooms{}
 
+import { physicslab } from "./physicsLab";
+physicslab{}
+
 
