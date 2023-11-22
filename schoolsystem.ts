@@ -6,7 +6,7 @@ const Tournament3 = new Tournament("Asad Safeer","Asim Akram",20,"defeated","nil
 const Tournament4 = new Tournament("Hameed","Tahir",21,"winner","Trophy")
 
 
-console.log(Tournament1,Tournament2,Tournament3,Tournament4)
+// console.log(Tournament1,Tournament2,Tournament3,Tournament4)
 
 import { schoolresult } from "./schoolresult";
 
@@ -17,7 +17,7 @@ const schoolresult3 = new schoolresult("Danial", 56, 63, 39, 41, 70, 54, 60, 55,
 const schoolresult4 = new schoolresult("Zubair", 42, 53, 42, 39, 65, 73, 58, 52, 60)
 
 let u = schoolresult1, n = schoolresult2, p= schoolresult3, s= schoolresult4
-console.log(u,n,p,s)
+// console.log(u,n,p,s)
 
 import { student } from "./schoolStudent";
 
@@ -26,7 +26,7 @@ const student2= new student("Zaheer",13,"Zafar Iqbal",50, "Chandra")
 const student3= new student("Saad",15,"Nisaar ahmed",51, "darapur")
 const student4= new student("Aoun",16,"Ashraf Ahmed",52, "Tillajogyan")
 
-console.log(student1,student2,student3)
+// console.log(student1,student2,student3)
 
 
 
@@ -37,7 +37,7 @@ const Roznamcha2 = new Roznamcha("class eight",50,46,3,1)
 const Roznamcha3 = new Roznamcha("class nine",65,52,3,10)
 const Roznamcha4 = new Roznamcha("class ten",42,35,3,4)
 let o = Roznamcha1, j = Roznamcha2, k = Roznamcha3, l= Roznamcha4
-console.log(o,j,k,l)
+// console.log(o,j,k,l)
 
 import { Staff } from "./schoolStaff";
 
@@ -51,7 +51,7 @@ const staff3 = new Staff("Haroon-est",40,"mcs,b.ed","water","18years","daryala j
 // x.push(staff2)
 // x.push(staff3)
 // console.log(x)
-console.log(staff1,staff2,staff3)
+// console.log(staff1,staff2,staff3)
 
 import {register} from "./schoolRegister";
 
@@ -59,7 +59,7 @@ const register1 =new register("admission",100,90, "naveed")
 const register2 =new register("science lab",100,90, "yasir")
 const register3 =new register("compute",100,90, "Ahtesham")
 const register4 =new register("physics", 200, 25, "haider sb")
-console.log(register1,register2,register3,register4)
+// console.log(register1,register2,register3,register4)
 
 
 import { rooms } from "./rooms";
@@ -69,7 +69,7 @@ const rooms2 = new rooms("computer lab ", 2,2,4)
 const rooms3 = new rooms("headmaster room", 2,1,4)
 const rooms4 = new rooms("headmaster room", 1,1,3)
 
-console.log(rooms2)
+// console.log(rooms2)
 
 import { physicslab } from "./physicsLab";
 
@@ -82,7 +82,7 @@ const physicslab5 = new physicslab("free fall method", 2)
 const physicslab6 = new physicslab("glass slabs", 20)
 const physicslab7 = new physicslab("glass prisms", 20)
 const physicslab8 = new physicslab("bar magnets", 30)
-console.log(physicslab1,physicslab2,physicslab3,physicslab4,physicslab5,physicslab6,physicslab7,physicslab8)
+// console.log(physicslab1,physicslab2,physicslab3,physicslab4,physicslab5,physicslab6,physicslab7,physicslab8)
 
 import { TeacherOfDay } from "./teacherday";
 
