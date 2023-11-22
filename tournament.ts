@@ -22,10 +22,3 @@ export class Tournament{
     }
 
 }
-const Tournament1 = new Tournament("Aashir","Afzal kyani",18,"winner","Gold medal")
-const Tournament2 = new Tournament("Ahtezaz","Ahsan Danish",16,"winner","silver medal")
-const Tournament3 = new Tournament("Asad Safeer","Asim Akram",20,"defeated","nill")
-const Tournament4 = new Tournament("Hameed","Tahir",21,"winner","Trophy")
-
-
-console.log(Tournament1,Tournament2,Tournament3,Tournament4)
