@@ -11,7 +11,7 @@ export class student{
         this.rollNumber=rollNumber,
         this.adress=adress
     }
-    schoolstuden():string{
+    schoolstudent():string{
         return 'student name is ${this.name} and student age is ${this.age} and fatherName is ${this.fatherName}'
     }
 }
